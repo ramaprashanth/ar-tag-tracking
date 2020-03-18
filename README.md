@@ -17,9 +17,9 @@ Place the `Input Sequences` and `Reference Images` in the same folder as the cod
 ## Results
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/AR%20Tag%20Tracking/result_1.png">
+  <img src="https://github.com/ramaprashanth/ar-tag-tracking/blob/master/result_1.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/AR%20Tag%20Tracking/result_2.png">
+  <img src="https://github.com/ramaprashanth/ar-tag-tracking/blob/master/result_2.png">
   </p>
